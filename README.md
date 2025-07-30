@@ -12,9 +12,4 @@
 ### 🔥 CodeSignal 3-Day Streak
 ![Streak](Certificates/streak-3.png)
 
-## 📄 PDF Downloads
-
-- [Download Git Basics Certificate (PDF)](Certificates/Git%20Basics%20Certificate%20Code%20Signal.pdf)
-- [Download Great Learning Certificate (PDF)](Certificates/Great%20Learning%20Certificate%204218557.pdf)
-- [Download SimpliLearning Certificate (PDF)](Certificates/SimpliLearning%20Certificate%204218557.pdf)
 
